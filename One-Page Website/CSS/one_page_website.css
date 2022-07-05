@@ -27,3 +27,15 @@ body {
     margin-right: 150px;
     margin-left: 80px;
   }
+
+#contact {
+  width: 200px;
+  margin: 10px;
+  border: 10px;
+  border-radius: 10px;
+  margin-inline: 5px;
+  border: 2px solid red;
+    border-radius: 50px 20px;
+    padding: 20px;
+  
+}
